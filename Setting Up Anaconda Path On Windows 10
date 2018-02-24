@@ -1,0 +1,18 @@
+Open the Start menu, start typing "environment" and select the option called Edit the system environment variables
+Select the Environment Variables button near the bottom
+In the top section containing user variables, select the one called Path and choose to edit it
+Create a new variable in the Path category under USER VARIABLES whose name refers to the location of the "Scripts" folder,
+which is inside whichever folder you chose to install Anaconda.
+
+For example:
+I have my anaconda folder installed in downloads folder named as Anaconda3.
+Inside it there is a folder Scripts..enter into the folder.
+copy the entire path and paste it to tha Path category of USER VARIABLES through environment variables.
+
+Then if type Anaconda prompt in search bar of windows you can see the anaconda prompt coming.
+Click on it and then prompt opens.
+
+Good luck to install deeplearning with cpu support.
+
+
+
