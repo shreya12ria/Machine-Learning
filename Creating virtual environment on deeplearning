@@ -1,0 +1,25 @@
+Open the anaconda prompt
+
+Type the following commands in the exact order given below:
+1:conda create --name deeplearning python //it creates a deeplearning environment..you can keep any name for me i kept deeplearning.Its just an environment.
+2:activate deeplearning
+3:conda install ipython
+4:conda install jupyter
+5:conda install pandas
+6:conda install scipy
+7:conda install seaborn
+8:conda install scikit-learn
+9:pip install --upgrade keras
+10:pip install --upgrade tensorflow
+
+
+now to check whether its ready or not open anaconda navigator and above where there is a part as Appications on...there will be by default
+base(root) selected.
+By clicking on it, you can see another environment named as deeplearning.
+select deeplearning.
+you new environment opens.
+
+
+You can install any number and kind of pacakges in any new environment or existing environment.
+I installed as per my requirement.
+
