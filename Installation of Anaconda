@@ -1,0 +1,26 @@
+Hello All.....
+
+This is all about to enable machine learning on Windows 10
+
+Its very simple and easy.
+
+Step 1:
+https://anaconda.org/anaconda/python
+**Click on this link to to download anaconda for windows 10
+
+Above The page there will be wriiten "Download Anaconda"
+Click on that 
+Then Click on Windows icon/logo
+
+scroll below 
+download .installer according to system that is 64 bit or 32 bit
+
+after downloading is finished
+click on the installer and install anaconda.
+
+to check whether anaconda is installed or not type anaconda navigator in windows search bar and click on it
+
+Your default anaconda package will be base(root)
+
+you can run simple programs using jupyter notebook.
+
