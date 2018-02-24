@@ -1,0 +1,27 @@
+Now to check whether everything is properly installed or not run the code i have uploaded
+in my git project named as firstml.py
+copy the code in your anaconda navigator and run it.
+
+
+The important thing is :
+to analyse your code using any other data sheets or text files or csv files.....
+keep all your data files which you may use to analyse from in the folder where your anaconda folder is created.
+
+For example:
+My anaconda is installed in Downloads Folder.
+So keep all your data files which will be used as an input to analyse and process on in downloads folder.
+Its better you create a folder named anything...like i named it as "ml" in Downloads Folder.
+keep all your data files in ml folder.
+While importing those data files in your code....just simply give the folder name followed by file name.
+for example:
+in my case it is "ml\pimaindiansdiabetes.csv" instead of giving "C:\Users\SHREYASI\ml\pimaindiansdiabetes.csv"
+
+if you give complete path it will show error.
+
+
+
+FINALLY....If you correctly followed the steps....the your code will definitely run without any error.
+
+THANK YOU
+
+For any query ping me..
